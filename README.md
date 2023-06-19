@@ -4,3 +4,4 @@ I did the backend and frontend of the project. frontend done by the java fx. And
 Description of the Project:
 This is a educational application for both students and teachers. Teachers can take a course which he or she will educate and Teacher can evaluate a student. Student can just see the list of his courses and teachers list. 
 And here we have the admins page. Admin can delete all the lists of the courses, teachers, students. and Admin can add the course.
+// There are files are unstructured. However in my laptop they are structured by directories. Just its my first time to uploading my project to the github
